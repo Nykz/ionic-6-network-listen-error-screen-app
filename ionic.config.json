@@ -1,0 +1,7 @@
+{
+  "name": "network-listen-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
